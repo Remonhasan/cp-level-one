@@ -1,0 +1,19 @@
+Section: C++ Basics 1 - Week 1
+
+Tasks:
+    - Task 1: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J
+    - Task 2: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T
+    - Task 3: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F
+    - Task 4: https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/D
+    - Task 5: https://codeforces.com/problemset/problem/4/A
+    - Task 6: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G
+    - Task 7: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I
+    - Task 8: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K
+    - Task 9: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L
+    - Task 10: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N
+    - Task 11: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y
+    - Task 12: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
+    - Task 13: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V
+    - Task 14: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U
+    - Task 15: https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z
+

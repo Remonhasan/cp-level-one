@@ -1,0 +1,15 @@
+Section: C++ Basics 2 + Online Judge Introduction - Week 2
+Tasks:
+    - Task 1: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K
+    - Task 2: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H
+    - Task 3: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C
+    - Task 4: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z
+    - Task 5: https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J
+    - Task 6: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O
+    - Task 7: https://codeforces.com/problemset/problem/1/A
+    - Task 8: https://codeforces.com/problemset/problem/630/A
+    - Task 9: https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/G
+    - Task 10: https://atcoder.jp/contests/abc258/tasks/abc258_a
+    - Task 11: https://codeforces.com/problemset/problem/271/A
+    - Task 12: https://codeforces.com/problemset/problem/1030/A
+    - Task 13: https://atcoder.jp/contests/abc263/tasks/abc263_a
