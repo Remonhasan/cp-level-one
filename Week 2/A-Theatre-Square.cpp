@@ -1,4 +1,4 @@
-// Problem : https://codeforces.com/problemset/problem/630/A
+// Problem : https://codeforces.com/problemset/problem/1/A
 #include<bits/stdc++.h>
 #include <vector>
 #include <algorithm>
