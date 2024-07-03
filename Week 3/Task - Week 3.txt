@@ -1,0 +1,18 @@
+Section: Time and Space Complexity  - Week 3
+Resources:
+    
+Tasks:
+    - Task 1: https://codeforces.com/problemset/problem/1535/A
+    - Task 2: https://codeforces.com/problemset/problem/214/A
+    - Task 3: https://codeforces.com/problemset/problem/320/A
+    - Task 4: https://www.hackerrank.com/challenges/summing-the-n-series/problem
+    - Task 5: https://www.hackerrank.com/challenges/number-groups/problem
+    - Task 6: https://codeforces.com/problemset/problem/758/A
+    - Task 7: https://codeforces.com/problemset/problem/1374/A
+    - Task 8: https://codeforces.com/problemset/problem/1512/A
+    - Task 9: https://codeforces.com/problemset/problem/199/A
+    - Task 10: https://codeforces.com/problemset/problem/1269/A
+    - Task 11: https://codeforces.com/problemset/problem/1496/A
+    - Task 12: https://codeforces.com/problemset/problem/1428/C
+    - Task 13: https://codeforces.com/problemset/problem/1633/C
+    - Task 14: https://codeforces.com/problemset/problem/1499/B
